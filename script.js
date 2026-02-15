@@ -27,8 +27,8 @@ const frases = [
     "💞 Te llevo en mi corazón 💞",
     "🌸 Eres increíble 🌸",
     "🌻En todo tiempo ama el amigo, para ayudar en la adversidad nació el hermano.🌻",
-    "🪷Y él nos ha dado este mandamiento: el que ama a Dios, ame también a su hermano.🪷",
-    "🫧El perfume y el incienso alegran el corazón; la dulzura de la amistad fortalece el ánimo.🫧"
+    "🪷El que ama a Dios, ame también a su hermano.🪷",
+    "🫧La dulzura de la amistad fortalece el ánimo.🫧"
 ];
 
 function resizeCanvas() {
